@@ -4,7 +4,7 @@
 Sähköposti: {$EmailAddress}<br/>
 Nimi: {$FullName}<br/>
 Puhelin: {$Phone}<br/>
-Organisaatio: {$Organization}<br/>
+Asunto: {$Organization}<br/>
 Rooli: {$Position}<br/>
 Salasana: {$Password}</p>
 {if !empty($CreatedBy)}

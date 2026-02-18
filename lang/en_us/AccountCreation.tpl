@@ -4,7 +4,7 @@
 Email: {$EmailAddress}<br/>
 Name: {$FullName}<br/>
 Phone: {$Phone}<br/>
-Organization: {$Organization}<br/>
+Apartment: {$Organization}<br/>
 Position: {$Position}</p>
 {if !empty($CreatedBy)}
 	Created by: {$CreatedBy}

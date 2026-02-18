@@ -206,7 +206,7 @@ class fi_fi extends en_gb
         $strings['Email'] = 'Sähköposti';
         $strings['EmailAddress'] = 'Sähköpostiosoite';
         $strings['Phone'] = 'Puhelin';
-        $strings['Organization'] = 'Organisatio';
+        $strings['Organization'] = 'Asunto';
         $strings['Position'] = 'Rooli';
         $strings['OrganizationId'] = 'Y-tunnus';
         $strings['CreditorId'] = 'Laskutustunnus';
@@ -768,7 +768,7 @@ class fi_fi extends en_gb
         $strings['UpdateGroupsOnImport'] = 'Päivitä olemassa oleva ryhmä, jos nimi täsmää';
         $strings['GroupsImportInstructions'] = '<ul><li>Tiedoston on oltava CSV-muodossa.</li><li>Nimi on pakollinen.</li><li>Jäsenlistat ovat pilkuilla erotettuja sähköpostiluetteloita.</li><li>Tyhjä jäsenlistaus päivittäessä jättää jäsenet ennalleen.</li><li>Käyttöoikeuslistat ovat pilkuilla erotettuja resurssien nimiä.</li><li>Tyhjä käyttöoikeuslistaus päivittäessä jättää oikeudet ennalleen.</li><li>Käytä annettua pohjaa esimerkkinä.</li></ul>';
         $strings['PhoneRequired'] = 'Puhelinnumero vaaditaan';
-        $strings['OrganizationRequired'] = 'Organisaatio vaaditaan';
+        $strings['OrganizationRequired'] = 'Asunto vaaditaan';
         $strings['PositionRequired'] = 'Rooli vaaditaan';
         $strings['GroupMembership'] = 'Ryhmäjäsenyys';
         $strings['AvailableGroups'] = 'Saatavilla olevat ryhmät';
